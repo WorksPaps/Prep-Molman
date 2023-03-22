@@ -1,2 +1,1 @@
-# Prep-Molman
-Repo de prueba para el modulo 2 papu
+Este proyecto es una prueba de como crear y clonar un repo de forma local
